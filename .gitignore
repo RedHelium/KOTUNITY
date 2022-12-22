@@ -401,3 +401,5 @@ ConsoleApp2/ConsoleApp2.csproj
 .vscode/tasks.json
 .vscode/launch.json
 ConsoleApp2/Program.cs
+KOTUNITY/ConsoleApp2.csproj
+KOTUNITY/Program.cs
